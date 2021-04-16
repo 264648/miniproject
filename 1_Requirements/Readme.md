@@ -1,16 +1,21 @@
 REQUIREMENTS
+
 INTRODUCTION
+
 This is a snake game in which the size of the snake increases as it consumes food. 
 
 RESEARCH
+
 The main aim of this project is to grow the size of the snake.
 We have loops to check for condition.
 Using these loops, we can implement the code. 
 
 COST AND FEATURES
+
 ![Description](Link to Pic) -- Content
 
 DEFINING OUR SYSTEM
+
 Some systems already exists on the snake game.
 This is a basic model of a snake game.
 SWOT ANALYSIS
