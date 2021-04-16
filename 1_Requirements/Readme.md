@@ -13,7 +13,9 @@ Using these loops, we can implement the code.
 
 ## Defining Our System
 Some systems already exists on the snake game.
+
 This is a basic model of a snake game.
+
 ![image](https://user-images.githubusercontent.com/81163246/114970786-b727f980-9e98-11eb-878d-04dd8d766bb4.png)
 
 
