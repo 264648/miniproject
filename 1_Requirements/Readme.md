@@ -22,22 +22,29 @@ SWOT ANALYSIS
 SWOT ANALYSIS
 
 4W's and 1'H
+
 Who:
+
 Any one who wants to play game can use it.
 
 What:
+
 This snake project can be used for entertainment.
 
 When:
+
 Whenever we feel bored or stressed, we use this for relieving stress.
 
 Where:
+
 Can use it only for entertainment.
 
 How:
+
 It can make our mind relaxed.
 
 DETAIL REQUIREMENTS
+
 High Level Requirements:
 --- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
 
