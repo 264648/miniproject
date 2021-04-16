@@ -14,9 +14,12 @@ Using these loops, we can implement the code.
 ## Defining Our System
 Some systems already exists on the snake game.
 This is a basic model of a snake game.
+![image](https://user-images.githubusercontent.com/81163246/114970786-b727f980-9e98-11eb-878d-04dd8d766bb4.png)
+
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/swot.png)
+![SWOT Analysis] ![image](https://user-images.githubusercontent.com/81163246/114970805-c5761580-9e98-11eb-8cd7-663ff1e61594.png)
+
 
 # 4W&#39;s and 1&#39;H
 
