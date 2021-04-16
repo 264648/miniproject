@@ -19,7 +19,7 @@ Folder             | Description
 
 SF Id  |  Name                   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|-------------------------|----------------|----------------|---------------|-------------|--------------
-264649 | Saikam Sai Sivani Reddy | Feature A, B etc    | X No     | X No           |X No         |X No         
+264648 | Singamreddy Sai Rishitha | Feature A, B etc    | X No     | X No           |X No         |X No         
 
 ## Challenges Faced and How Was It Overcome
 
