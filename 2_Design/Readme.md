@@ -1,7 +1,7 @@
 # Design
 ## High Level Design 
 ### Architecture 
-![Architecture] ![image](https://user-images.githubusercontent.com/81163246/114970365-ea1dbd80-9e97-11eb-8f37-735cc8833380.png)
+![High level architecture image](https://github.com/264648/miniproject/blob/4faf227eccb1eec80c58508f3fee528e8118da4a/2_Design/HIGH%20LEVEL.png)
 
 
 
