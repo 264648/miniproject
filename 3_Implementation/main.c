@@ -1,9 +1,9 @@
 #include<graphics.h>
 #include<time.h>
+#include "proto.h"
 
-int main()
-{
-	int i,X[100],Y[100],rx,ry,gm,gd,l,d=2,s=16;
+int snakegame(){
+    	int i,X[100],Y[100],rx,ry,gm,gd,l,d=2,s=16;
 	srand(time(NULL));
 	detectgraph(&gd,&gm);
 	initgraph(&gd,&gm,NULL);
@@ -79,4 +79,20 @@ int main()
 	closegraph();
 	getch();
 	return 0;	
+}
+
+int main()
+{
+   printf("interested playing snake game\n");
+   printf("press 1 to start game\n");
+   int n;
+   scanf("%d",&n);
+   if(n==1){
+       snakegame();
+   }
+   else{
+       printf("you entered the wrong input");
+   }
+   
+   
 }
