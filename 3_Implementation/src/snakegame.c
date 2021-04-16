@@ -1,5 +1,6 @@
 #include<graphics.h>
 #include<time.h>
+#include "proto.h"
 
 int snakegame(){
     	int i,X[100],Y[100],rx,ry,gm,gd,l,d=2,s=16;
