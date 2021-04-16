@@ -9,7 +9,7 @@ We have loops to check for conditions.
 Using these loops, we can implement the code.
 
 ## Cost and Features with Time 
-
+![Description](Link to Pic) -- Content
 
 ## Defining Our System
 Some systems already exists on the snake game.
@@ -37,7 +37,8 @@ This is a basic model of a snake game.
 
 # Detail requirements
 ## High Level Requirements: 
+--- TBD in Tabular Format -- ID | Description | Status (Implemented/Future)
 
 ##  Low level Requirements:
- 
+--- TBD in Tabular Format -- ID | Description | Status (Implemented/Future) 
 
