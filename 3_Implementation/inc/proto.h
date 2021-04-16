@@ -1,6 +1,6 @@
 /**
  * @file proto.h
- * @author Sivani R
+ * @author Rishitha S
  * @brief 
  * @version 0.1
  * @date 2021-04-15
@@ -14,49 +14,14 @@
  * @brief proto file which includes all the functions
  * 
  */
-void additon();
+int snakegame()
 /**
- * @brief performs addition operation
+ * @brief develops a boundary where the snake eats food and develop all the game instructions
  * 
  */
-void subtraction();
+int main()
 /**
- * @brief performs subtraction operation
+ * @brief prints the status of the game
  * 
  */
-void multiplication();
-/**
- * @brief performs multiplication operation
- * 
- */
-void division();
-/**
- * @brief performs division operation
- * 
- */
-void modulus();
-/**
- * @brief performs modulus operation gives remainder
- * 
- */
-void power();
-/**
- * @brief finds the power of a number
- * 
- */
-void factorial();
-/**
- * @brief determines factorial of a number
- * 
- */
-void drawn();
-/**
- * @brief draws a right angled traingle with numbers
- * 
- */
-void drawa();
-/**
- * @brief draws a pyramid with * character
- * 
- */
-# endif
+
